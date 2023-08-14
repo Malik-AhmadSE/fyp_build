@@ -1,0 +1,2 @@
+import{d as n,_ as r,c as s,a as e,g as o,b as a,w as c,r as _,o as h}from"./index-040ab3ec.js";const l=n({name:"Error404"}),d=e("h1",{class:"mb-5"},"404 Error.",-1),p=e("p",{class:"h4"},"Ahhhhhhhh! The page you are looking for does not exist.",-1),i=e("span",null,"the main page",-1);function u(m,f,k,x,g,E){const t=_("router-link");return h(),s("div",null,[d,p,e("p",null,[o(" Don't worry, you can head back to "),a(t,{to:"/"},{default:c(()=>[i]),_:1}),o(". ")])])}const b=r(l,[["render",u]]);export{b as default};
+//# sourceMappingURL=Error404-f2bef534.js.map
